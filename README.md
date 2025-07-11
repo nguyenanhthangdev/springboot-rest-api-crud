@@ -33,9 +33,9 @@
 
 File `application.properties`:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/demospringrestapi
-spring.datasource.username=root
-spring.datasource.password=
+- spring.datasource.url=jdbc:mysql://localhost:3306/demospringrestapi
+- spring.datasource.username=root
+- spring.datasource.password=
 
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show-sql=true
